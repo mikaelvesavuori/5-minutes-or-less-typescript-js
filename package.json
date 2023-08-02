@@ -1,0 +1,30 @@
+{
+  "name": "5-minutes-or-less-typescript-js",
+  "version": "1.0.0",
+  "description": "Patterns and features of TypeScript and JavaScript, demystified in less than 5 minutes each.",
+  "keywords": [
+    "typescript",
+    "javascript",
+    "ts",
+    "js",
+    "demos",
+    "patterns",
+    "language-features",
+    "learning"
+  ],
+  "author": "Mikael Vesavuori",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "latest",
+    "@typescript-eslint/eslint-plugin": "5",
+    "@typescript-eslint/parser": "5",
+    "eslint": "8",
+    "eslint-config-prettier": "8",
+    "eslint-plugin-import": "latest",
+    "eslint-plugin-jsdoc": "latest",
+    "eslint-plugin-prettier": "4",
+    "prettier": "2",
+    "ts-node": "latest",
+    "typescript": "5"
+  }
+}
