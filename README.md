@@ -6,7 +6,7 @@ This is a collection of briefly presented concepts, features, and patterns that 
 
 Current contents:
 
-- TypeScript 5 decorators
+- TypeScript 5.0 decorators
 - Index signatures
 - Maps and sets
 - Metaprogramming (Reflect API and Proxy)
