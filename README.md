@@ -4,6 +4,13 @@
 
 This is a collection of briefly presented concepts, features, and patterns that I find interesting in TS/JS.
 
+## Five Minutes or Less
+
+- [SOLID](https://github.com/mikaelvesavuori/5-minutes-or-less-solid)
+- [Design Patterns](https://github.com/mikaelvesavuori/5-minutes-or-less-design-patterns)
+
+## Content
+
 Current contents:
 
 - TypeScript 5.0 decorators
