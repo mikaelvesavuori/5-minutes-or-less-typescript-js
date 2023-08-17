@@ -8,6 +8,7 @@ This is a collection of briefly presented concepts, features, and patterns that 
 
 - [SOLID](https://github.com/mikaelvesavuori/5-minutes-or-less-solid)
 - [Design Patterns](https://github.com/mikaelvesavuori/5-minutes-or-less-design-patterns)
+- [Refactoring](https://github.com/mikaelvesavuori/5-minutes-or-less-refactoring)
 
 ## Content
 
